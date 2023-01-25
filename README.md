@@ -47,6 +47,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logo/python-5" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 ---
