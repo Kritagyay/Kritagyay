@@ -3,15 +3,15 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/thealphacoder/">
+  <a href="https://www.linkedin.com/in/kritagyay-upadhayay-b75985205/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/theAlphaCoder06">
+  <a href="https://twitter.com/Kritagyay007">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theAlphaCoder06&style=flat-square&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=VenomKJ&style=flat-square&color=blue"/>
 </div>
 
 <h1 align="center">
@@ -35,7 +35,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: I also solve problems on various coding platforms(viz Coding Ninjas, GeeksforGeeks, CodeChef, etc) and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-thealphacoder-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thealphacoder/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VenomKJ-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kritagyay-upadhayay-b75985205/)
 
 ---
 
@@ -47,7 +47,6 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/python.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
 ---
