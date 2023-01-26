@@ -27,11 +27,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m a Student and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring new fameworks.
+- :seedling: Exploring new libraries.
 
 - :zap: I also solve problems on various coding platforms(viz Coding Ninjas, GeeksforGeeks, CodeChef, etc) and read tech articles.
 
