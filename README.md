@@ -48,8 +48,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://worldvectorlogo.com/logo/mysql-3.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-</div>
+ </div>
 
 ---
 
