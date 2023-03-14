@@ -73,13 +73,6 @@ I am a Python Developer  from India.<br><br>🔭 “It’s easy to lie with stat
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VenomKJ&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Kritagyay007)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=VenomKJ&icon=1&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
