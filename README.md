@@ -75,7 +75,8 @@ I am a Python Developer  from India.<br><br>🔭 “It’s easy to lie with stat
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbbJAhazRlClmf-8_O7jJIhjNwwDgkepqFw&usqp=CAU" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/192px-Created_with_Matplotlib-logo.svg.png?20150219130408" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/192px-Created_with_Matplotlib-logo.svg.png?20150219130408" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
   <img src="https://i0.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1" title="tkinter" alt="tkinter" width="40" height="40"/>&nbsp;
   <img src="https://t4.ftcdn.net/jpg/03/49/62/55/360_F_349625593_F5WjsQXzdr9VJQsPk53WDBz2767z38k8.jpg" title="Turtle" alt="Turtle" width="40" height="40"/>&nbsp;
   
