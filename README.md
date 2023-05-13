@@ -11,7 +11,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VenomKJ&style=flat-square&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Kritagyay&style=flat-square&color=blue"/>
 </div>
 
 <h1 align="center">
@@ -35,7 +35,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: I also solve problems on various coding platforms(viz Coding Ninjas, GeeksforGeeks, CodeChef, etc) and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VenomKJ-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kritagyay-upadhayay-b75985205/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kritagyay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kritagyay-upadhayay-b75985205/)
 
 ---
 
@@ -54,7 +54,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VenomKJ&theme=python-dark&background=000000)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kritagyay&theme=python-dark&background=000000)](https://git.io/streak-stats) -->
 
 # 💫 About Me:
 I am a Python Developer  from India.<br><br>🔭 “It’s easy to lie with statistics It’s hard to tell the truth without statistics.”<br><br>🌱 Exploring new libraries.<br><br>⚡ I also solve problems on various coding platforms(viz Coding Ninjas, GeeksforGeeks, CodeChef, etc) and read tech articles.
@@ -84,12 +84,12 @@ I am a Python Developer  from India.<br><br>🔭 “It’s easy to lie with stat
  </div>
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VenomKJ&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VenomKJ&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenomKJ&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Kritagyay&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kritagyay&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritagyay&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VenomKJ&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Kritagyay&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
