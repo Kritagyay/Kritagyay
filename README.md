@@ -90,6 +90,7 @@ I am a Python Developer  from India.<br><br>🔭 “It’s easy to lie with stat
 
 ## GitHub Graph:
 ![](https://activity-graph.herokuapp.com/graph?username=Kritagyay&theme=xcode)
+--
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kritagyay&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
