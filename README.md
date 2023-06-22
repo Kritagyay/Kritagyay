@@ -88,8 +88,8 @@ I am a Python Developer  from India.<br><br>🔭 “It’s easy to lie with stat
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kritagyay&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritagyay&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# GitHub Graph:
-![](https://activity-graph.herokuapp.com/graph?username=codemaker2015&theme=xcode)
+## GitHub Graph:
+![](https://activity-graph.herokuapp.com/graph?username=Kritagyay&theme=xcode)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kritagyay&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
