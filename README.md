@@ -57,7 +57,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kritagyay&theme=python-dark&background=000000)](https://git.io/streak-stats) -->
 
 # 💫 About Me:
-I am a Python Developer  from India.<br><br>🔭 “It’s easy to lie with statistics It’s hard to tell the truth without statistics.”<br><br>🌱 Exploring new libraries.<br><br>⚡ I also solve problems on various coding platforms(viz Coding Ninjas, GeeksforGeeks, CodeChef, etc) and read tech articles.
+I am a Data Scientist and a Python Developer from India.<br><br>🔭 “It’s easy to lie with statistics It’s hard to tell the truth without statistics.”<br><br>🌱 Exploring new libraries.<br><br>⚡ I also solve problems on various coding platforms(viz Coding Ninjas, GeeksforGeeks, CodeChef, etc) and read tech articles.
 
 
 ## 🌐 Socials:
