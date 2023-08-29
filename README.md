@@ -73,6 +73,8 @@ I am a Data Scientist and a Python Developer from India.<br><br>🔭 “It’s e
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*1QcqrOoDE1rKa0NTp1iEtw.png" title="WebScraping" alt="WebScraping" width="40" height="40"/>&nbsp;
+
   <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbbJAhazRlClmf-8_O7jJIhjNwwDgkepqFw&usqp=CAU" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/192px-Created_with_Matplotlib-logo.svg.png?20150219130408" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
